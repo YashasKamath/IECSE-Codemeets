@@ -25,8 +25,7 @@ int main()
     int k;
     cin >> k;
 
-    // cout<<recursiveBinary(0, n-1, arr,k);
-    cout << firstOccurance(arr, k, n);
+    cout<<recursiveBinary(0, n-1, arr,k);
 
     return 0;
 }
