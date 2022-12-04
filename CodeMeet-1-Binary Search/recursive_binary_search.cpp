@@ -1,5 +1,4 @@
-//Binary Search using recursion
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int recursiveBinary(int low, int high, int arr[], int k)
@@ -10,9 +9,10 @@ int recursiveBinary(int low, int high, int arr[], int k)
     if (arr[mid] == k)
         return mid;
     else if (k < arr[mid])
-        recursiveBinary(low, mid - 1, arr, k);
+        return recursiveBinary(low, mid - 1, arr, k);
     else if (k > arr[mid])
-        recursiveBinary(mid + 1, high, arr, k);
+        return recursiveBinary(mid + 1, high, arr, k);
+    return -1;
 }
 int main()
 {
