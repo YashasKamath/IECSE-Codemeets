@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">217. Contains Duplicate</a></h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code> , return <code>true</code> if any value appears <strong>at least twice</strong> in the array .
+<h2><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</a></h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code> , return <code>true</code> if any value appears <strong>at least twice</strong> in the array .
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
