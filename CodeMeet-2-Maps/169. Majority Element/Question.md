@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">169. Majority Element</a></h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code> of size <code>n</code> , return the majority element .
+<h2><a href="https://leetcode.com/problems/majority-element/">169. Majority Element</a></h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code> of size <code>n</code> , return the majority element .
   A majority element is an element that appears more than <code>[n/2]</code> times in the array . You may assume that majority element always exists in the array .
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
